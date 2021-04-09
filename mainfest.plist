@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://fb2-hk-app.oss-cn-hongkong.aliyuncs.com/apk/app_1.0.4.ipa?auth_key=1617885367-0b72a580f73942a7b67b249084596cec-0-abeb02ae692ed0c1c3717b88f34f9ccf</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.domo8.com/domo-static-asset/app_icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.domo8.com/domo-static-asset/app_icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.mg.team.fbex</string>
+				<key>bundle-version</key>
+				<string>0.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>fbex</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
