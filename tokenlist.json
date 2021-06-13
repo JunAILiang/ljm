@@ -1,0 +1,21 @@
+{
+      "name": "Heco Mainnet Tokens",
+      "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 2
+      },
+      "keywords": ["heco", "tokens", "mainnet"],
+      "logoURI": "https://raw.githubusercontent.com/JunAILiang/ljm/main/IEC.png",
+      "timestamp": "2021-03-07T14:46:35+0000",
+      "tokens": [
+        {
+          "name": "BUSD Token",
+          "chainId": 256,
+          "symbol": "BUSD",
+          "decimals": 18,
+          "address": "0x16CA82a03fCa0B9eD4099Ae8b165686931f669eF",
+          "logoURI": "https://raw.githubusercontent.com/JunAILiang/ljm/main/USDT.png"
+        }
+      ]
+    }
